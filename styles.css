@@ -1,0 +1,13 @@
+.nav-background{
+  background-color: #f8dde1;}
+
+.btn{
+    background-color: hotpink;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+   border: none;
+}
+.nav-container{
+   justify-content: space-around; 
+}
